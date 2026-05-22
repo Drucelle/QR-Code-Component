@@ -11,6 +11,9 @@
     margin: 0;
     padding: 0;
 }
+:focus-visible{
+    outline: 3px solid hsl(218, 44% 22%);
+}
 body{
    background-color: var(--color-slate-300);
    min-height: 100vh;
