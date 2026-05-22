@@ -15,17 +15,16 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [AI Collaboration](#ai-collaboration)
 - [Author](#author)
 
-
 ## Overview
 
 ### Screenshot
 
-![Frontend Mentor QR Code Component Solution Screenshot](<Frontend Mentor QR Code Component-1.png>)
+![Frontend Mentor QR Code Component Solution screenshot](<screenshots/Frontend Mentor QR Code Component.png>)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [QR Code Component](https://github.com/Drucelle/QR-Code-Component/tree/main)
+- Live Site URL: [Live Site QR Code Component](https://drucelle.github.io/QR-Code-Component/)
 
 ## My process
 
@@ -40,15 +39,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 1. Link to Google fonts
 
-![html code to link to google fonts snippet](link-preconnect.png)
+![html code to link to google fonts screenshot](screenshots/link-preconnect.png)
 
 2. Use CSS Custom Properties in :root
 
-![CSS Custom Properties code in :root snippet](<CSS Custom Properties.png>)
+![CSS Custom Properties code in :root screenshot](<screenshots/CSS Custom Properties.png>)
 
 3. Use CSS Custom Properties Variables:
 
-![CSS Custom Properties Variables Code snippet used in h1](<Custom Properties Variables.png>)
+![CSS Custom Properties Variables Code screenshot used in h1](<screenshots/Custom Properties Variables.png>)
 
 
 ### Continued development
@@ -73,7 +72,7 @@ I have used Claude (free version) to help me and guide me:
 - When I was stuck with the role as a tutor by asking me questions when I wanted to have
   a deeper understanding e.g. a code sequence like in my HTML head tag. And never just give me a code to just copy paste because that would defeat the purpose for me as I want to learn. And the only way to learn is by doing and making mistakes. 
 
-  ![HTML head tag code snippet](<HTML head tag-1.png>)
+  ![HTML head tag code screenshot](<screenshots/HTML head tag.png>)
 
 - Brainstorming solutions while incorporating best practices and clean code.
 
@@ -82,7 +81,4 @@ I have used Claude (free version) to help me and guide me:
 
 ## Author
 
-- Website - [@drucelle](https://www.your-site.com)
-- Frontend Mentor - [@drucelle](https://www.frontendmentor.io/profile/yourusername)
-
-
+- Frontend Mentor - [@drucelle](https://www.frontendmentor.io/profile/drucelle)
